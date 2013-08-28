@@ -1,3 +1,6 @@
+// Galil Control Class for WMRA-2
+// IP Address is "192.168.1.22"
+
 
 #ifdef GALIL_EXPORTS
 #define GALIL_API __declspec(dllexport) 
